@@ -1,0 +1,4 @@
+﻿  lab1.1.cpp
+X:\LABS2KURS\KMZI\lab1.1\lab1.1.cpp(23,51): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\KMZI\lab1.1\lab1.1.cpp(58,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1.1.vcxproj -> X:\LABS2KURS\KMZI\lab1.1\x64\Debug\lab1.1.exe

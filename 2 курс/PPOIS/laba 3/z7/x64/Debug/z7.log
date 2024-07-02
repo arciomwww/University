@@ -1,0 +1,5 @@
+﻿  z7.cpp
+D:\Progr\GitHub\University\PPOIS\4sem\lab3\z7\z7.cpp(14,12): warning C4244: return: преобразование "INT_PTR" в "int", возможна потеря данных
+D:\Progr\GitHub\University\PPOIS\4sem\lab3\z7\z7.cpp(45,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\Progr\GitHub\University\PPOIS\4sem\lab3\z7\z7.cpp(75,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  z7.vcxproj -> D:\Progr\GitHub\University\PPOIS\4sem\lab3\z7\x64\Debug\z7.exe

@@ -1,0 +1,9 @@
+﻿  lab10.1.cpp
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(11,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(56,42): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(56,42): warning C4244:         with
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(56,42): warning C4244:         [
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(56,42): warning C4244:             _Ty=int
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(56,42): warning C4244:         ]
+X:\LABS2KURS\MOIS\lab10.1\lab10.1.cpp(73,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab10.1.vcxproj -> X:\LABS2KURS\MOIS\lab10.1\x64\Debug\lab10.1.exe

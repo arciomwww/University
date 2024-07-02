@@ -1,0 +1,7 @@
+﻿  kk.cpp
+X:\LABS2KURS\KMZI\lab1\kk.cpp(9,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\KMZI\lab1\kk.cpp(44,55): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\KMZI\lab1\kk.cpp(62,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\KMZI\lab1\kk.cpp(88,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\KMZI\lab1\kk.cpp(111,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab1.vcxproj -> X:\LABS2KURS\KMZI\lab1\x64\Debug\lab1.exe

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|solutionrelative:z9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A4 9$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|solutionrelative:z9.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A4 9$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A1 9$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{5D3A12AE-FE4F-486C-A4CF-D295092F4752}|z9.vcxproj|solutionrelative:z9.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A1 9$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "z9.rc - IDD_OUTPUT_DIALOG - Dialog",
+              "DocumentMoniker": "X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.rc",
+              "RelativeDocumentMoniker": "z9.rc",
+              "ToolTip": "D:\\Progr\\GitHub\\University\\PPOIS\\4sem\\lab3\\z9\\z9.rc - IDD_OUTPUT_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2024-03-23T23:39:43.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "z9.rc - IDD_INPUT_DIALOG - Dialog",
+              "DocumentMoniker": "X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.rc",
+              "RelativeDocumentMoniker": "z9.rc",
+              "ToolTip": "D:\\Progr\\GitHub\\University\\PPOIS\\4sem\\lab3\\z9\\z9.rc - IDD_INPUT_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2024-03-23T23:35:48.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "z9.cpp",
+              "DocumentMoniker": "X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.cpp",
+              "RelativeDocumentMoniker": "z9.cpp",
+              "ToolTip": "X:\\LABS2KURS\\PPOIS\\laba 3\\z9\\z9.cpp",
+              "RelativeToolTip": "z9.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T23:35:17.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

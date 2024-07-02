@@ -1,0 +1,3 @@
+﻿  llllaba 6.cpp
+X:\LABS2KURS\AOIS\llllaba 6\llllaba 6.cpp(49,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  llllaba 6.vcxproj -> X:\LABS2KURS\AOIS\llllaba 6\x64\Debug\llllaba 6.exe

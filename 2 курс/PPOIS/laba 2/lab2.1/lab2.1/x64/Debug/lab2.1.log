@@ -1,0 +1,3 @@
+﻿  lab2.1.cpp
+X:\LABS2KURS\PPOIS\laba 2\lab2.1\lab2.1.cpp(24,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab2.1.vcxproj -> X:\LABS2KURS\PPOIS\laba 2\lab2.1\x64\Debug\lab2.1.exe

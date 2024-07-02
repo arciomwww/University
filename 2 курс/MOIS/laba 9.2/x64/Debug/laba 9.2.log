@@ -1,0 +1,3 @@
+﻿  laba 9.2.cpp
+X:\LABS2KURS\MOIS\laba 9.2\laba 9.2.cpp(9,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba 9.2.vcxproj -> X:\LABS2KURS\MOIS\laba 9.2\x64\Debug\laba 9.2.exe

@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+X:\LABS2KURS\AOIS\lab1\lab1.cpp(42,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\AOIS\lab1\lab1.cpp(55,33): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> X:\LABS2KURS\AOIS\lab1\x64\Debug\lab1.exe

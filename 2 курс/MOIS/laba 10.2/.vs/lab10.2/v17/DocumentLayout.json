@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\LABS2KURS\\MOIS\\lab10.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\LABS2KURS\\MOIS\\lab10.2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6CCDF0-EC2B-4639-B8A4-2F514A230EB7}|lab10.2.vcxproj|X:\\LABS2KURS\\MOIS\\lab10.2\\lab10.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B6CCDF0-EC2B-4639-B8A4-2F514A230EB7}|lab10.2.vcxproj|solutionrelative:lab10.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6CCDF0-EC2B-4639-B8A4-2F514A230EB7}|lab10.2.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\LIST||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.txt",
+              "DocumentMoniker": "X:\\LABS2KURS\\MOIS\\lab10.2\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "X:\\LABS2KURS\\MOIS\\lab10.2\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-29T05:59:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAIwFUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-29T06:28:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab10.2.cpp",
+              "DocumentMoniker": "X:\\LABS2KURS\\MOIS\\lab10.2\\lab10.2.cpp",
+              "RelativeDocumentMoniker": "lab10.2.cpp",
+              "ToolTip": "X:\\LABS2KURS\\MOIS\\lab10.2\\lab10.2.cpp",
+              "RelativeToolTip": "lab10.2.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T05:53:59.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

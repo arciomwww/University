@@ -1,0 +1,3 @@
+﻿  z11.cpp
+X:\LABS2KURS\PPOIS\laba 1\z11\z11.cpp(18,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  z11.vcxproj -> X:\LABS2KURS\PPOIS\laba 1\z11\x64\Debug\z11.exe

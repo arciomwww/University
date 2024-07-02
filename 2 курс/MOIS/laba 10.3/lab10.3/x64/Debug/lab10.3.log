@@ -1,0 +1,7 @@
+﻿  lab10.3.cpp
+X:\LABS2KURS\MOIS\lab10.3\lab10.3.cpp(9,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.3\lab10.3.cpp(42,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.3\lab10.3.cpp(136,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.3\lab10.3.cpp(153,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+X:\LABS2KURS\MOIS\lab10.3\lab10.3.cpp(201,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab10.3.vcxproj -> X:\LABS2KURS\MOIS\lab10.3\x64\Debug\lab10.3.exe
