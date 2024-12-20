@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="X:/pbz/laba6/mydb5.sqlite3" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="200"/><column_width id="3" width="5159"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,12:mainКлиент"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">CREATE TABLE Кредит (
+    &quot;№Кредита&quot; NUMERIC PRIMARY KEY,
+    &quot;Сумма&quot; NUMERIC,
+    &quot;Процентная ставка&quot; NUMERIC,
+    &quot;Дата выдачи&quot; TEXT,
+    &quot;Срок&quot; TEXT,
+    &quot;№Счета&quot; NUMERIC,
+    &quot;№Работника&quot; NUMERIC,
+    FOREIGN KEY (&quot;№Работника&quot;) REFERENCES &quot;Работник&quot; (&quot;№Работника&quot;)
+        ON DELETE SET NULL ON UPDATE CASCADE
+    FOREIGN KEY (&quot;№Счета&quot;) REFERENCES &quot;Счет&quot; (&quot;№Счета&quot;)
+        ON DELETE SET NULL ON UPDATE CASCADE
+);
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
